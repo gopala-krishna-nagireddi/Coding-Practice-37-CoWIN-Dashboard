@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 36px 0px;
+  font-family: 'Roboto';
+}
+
+.dashboard-container {
+  width: 80%;
+}
+
+.website-logo-name-container {
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.website-name {
+  color: #2cc6c6;
+}
+
+.main-heading {
+  color: #cbd5e1;
+}
+
+.loader-container {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
